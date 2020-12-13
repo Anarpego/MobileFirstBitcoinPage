@@ -1,6 +1,5 @@
-<h1><span style="color:#f7931a">Batatabit </span> Mobile First Page </h1>
+#Batatabit Mobile First Page
 
-:tw-1f4b0: :tw-1f4c8:
 
 
 
